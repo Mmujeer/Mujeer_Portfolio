@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R programming on Mujeer M</title>
+    <link>https://mmujeer.github.io/Mujeer_Portfolio/tags/r-programming/</link>
+    <description>Recent content in R programming on Mujeer M</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2020 11:15:58 -0400</lastBuildDate>
+    
+	<atom:link href="https://mmujeer.github.io/Mujeer_Portfolio/tags/r-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forecasting</title>
+      <link>https://mmujeer.github.io/Mujeer_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 13 Apr 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://mmujeer.github.io/Mujeer_Portfolio/post/project-5/</guid>
+      <description>Introduction The dataset we are working on, is a subset provided from the original M3 competition 3003 series from International Institute of Forecasters (IIF) which is led by forecasting researcher Spyros Makridakis. This dataset is reduced to 1000 series including yearly, quarterly, and monthly micro-economic, macro-economic, industrial, financial, and demographic time series data. Our aim is to find the best fitted model for each series and produce training and test MASE results of all 3 frequencies (yearly, quarterly, monthly).</description>
+    </item>
+    
+    <item>
+      <title>Time Series Analysis </title>
+      <link>https://mmujeer.github.io/Mujeer_Portfolio/post/project-4/</link>
+      <pubDate>Sun, 12 Apr 2020 11:14:48 -0400</pubDate>
+      
+      <guid>https://mmujeer.github.io/Mujeer_Portfolio/post/project-4/</guid>
+      <description>Diagnostic plots   Introduction Our eggs dataset from 1981 to 1996 shows the number of Coregonus hoyi of age-3 egg depositions made through the years (in millions). We will analyse this dataset to capture this trend and predict the outcome for the next five years.
+Methodology  To perform this analysis we have analysed the time series plot, ACF plot, PACF plot. Applied transformation and done differencing to the data due to non-stationarity.</description>
+    </item>
+    
+    <item>
+      <title> Regression Analysis </title>
+      <link>https://mmujeer.github.io/Mujeer_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 11 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://mmujeer.github.io/Mujeer_Portfolio/post/project-3/</guid>
+      <description>Residual Analysis   Introduction It is quite challenging to identify the quality of wine by just looking at the bottle. The objective of this report is to evaluate the relationship between variables in our wine quality dataset and identify through Regression analysis as to which variables have a linear relationship with the dependant variable (quality). This dataset consists of different variables that define the quality of the wine.</description>
+    </item>
+    
+  </channel>
+</rss>

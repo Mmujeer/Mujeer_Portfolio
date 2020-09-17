@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Mujeer M</title>
+    <link>https://mmujeer.github.io/Mujeer_Portfolio/tags/python/</link>
+    <description>Recent content in Python on Mujeer M</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2019 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://mmujeer.github.io/Mujeer_Portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Machine Learning: Prediction and Modelling </title>
+      <link>https://mmujeer.github.io/Mujeer_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 10 Apr 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://mmujeer.github.io/Mujeer_Portfolio/post/project-2/</guid>
+      <description>Heatmap   Abstract With the dataset used in this report, we will try to predict the chances of a student getting an admission based on different exam scores and other descriptive features. We have used three classification algorithms
+ K nearest neighbours, Gaussian naive bayes and Decision tree algorithms to test our training dataset which are split into 80:20 to test all three algorithms.  Introduction The aim of this project is to predict if an individual has any chances of getting admitted in given universities based on the relationship of descriptive features with our target variable(chance of admission).</description>
+    </item>
+    
+    <item>
+      <title>Data pre-processing and exploration</title>
+      <link>https://mmujeer.github.io/Mujeer_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 09 Apr 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://mmujeer.github.io/Mujeer_Portfolio/post/project-1/</guid>
+      <description>Multi-variate visualization   1.1 Objective The objective of this project is to predict whether a student’s admission is dependant on the parameters set out in our dataset. The dataset was sourced from Kaggle at https://www.kaggle.com/mohansacharya/graduate-admissions#Admission_Predict.csv [1]. This project has two phases. Phase I focuses on data pre-processing and exploration, as covered in this report. Model building is covered in Phase 2.
+1.2 Dataset The dataset is obtained from kaggle and contains 9 variables.</description>
+    </item>
+    
+  </channel>
+</rss>
